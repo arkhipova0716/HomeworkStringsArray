@@ -90,3 +90,4 @@ for (int i = 0; i< arrayLength; i++)
     }
     Console.Write($"\"{newStringsArray[i]}\"");
 }
+Console.Write("]");
