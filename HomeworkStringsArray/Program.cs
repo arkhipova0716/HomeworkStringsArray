@@ -80,7 +80,7 @@ for (int i = 0; i < arrayLength; i++)
 }
 
 // Выводим новый массив
-Console.Write("[");
+Console.Write("Новый массив: [");
 for (int i = 0; i< arrayLength; i++)
 {
     if (i > 0)
