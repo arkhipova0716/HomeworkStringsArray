@@ -1,1 +1,2 @@
-# HomeworkStringsArray
+# Блок-схема
+![Блок схема](scheme.png)
